@@ -1,0 +1,74 @@
+<style> 
+
+body{
+    font-family: 'Times New Roman';
+    background: url(https://image.freepik.com/foto-gratis/fondo-blanco-con-flores-bonitas_23-2147600700.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+}
+
+
+#boton{
+    background-color: none; 
+    border-color: none;
+    color: rgb(224, 112, 200);
+    padding: 4px 20px;
+    text-align: right;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium';
+}
+
+#boton1{
+    background-color: none; 
+    border-color: none;
+    color: rgb(224, 112, 200);
+    padding: 4px 20px;
+    text-align: right;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium';
+}
+
+#boton4{
+    background-color: rgb(179, 204, 179); 
+    border-color:  rgb(179, 204, 179);
+    color: white;
+    padding: 4px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#boton5{
+    background-color: rgb(179, 204, 179); 
+    border-color:  rgb(179, 204, 179);
+    color: white;
+    padding: 4px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#boton6{
+    background-color: rgb(179, 204, 179); 
+    border-color:  rgb(179, 204, 179);
+    color: white;
+    padding: 4px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+</style>
